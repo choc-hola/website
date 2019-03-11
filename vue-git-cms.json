@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "title": "Index",
+      "title": "Accueil",
       "template": "templates/index.html",
       "destination": "index.html",
       "type": "html",
