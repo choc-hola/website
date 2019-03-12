@@ -276,6 +276,6 @@
   "site": {
     "canAddPages": false,
     "publishEverythingButton": false,
-    "previewRootPath": "https://choc-hola.github.io"
+    "previewRootPath": "https://choc-hola.github.io/website"
   }
 }
